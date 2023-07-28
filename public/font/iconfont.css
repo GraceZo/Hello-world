@@ -1,0 +1,175 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4119755 */
+  src: url('iconfont.woff2?t=1686636728563') format('woff2'),
+       url('iconfont.woff?t=1686636728563') format('woff'),
+       url('iconfont.ttf?t=1686636728563') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  /* font-size: 16px; */
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-add:before {
+  content: "\e66c";
+}
+
+.icon-query:before {
+  content: "\e67b";
+}
+
+.icon-scan:before {
+  content: "\e68b";
+}
+
+.icon-pay:before {
+  content: "\e68c";
+}
+
+.icon-travel:before {
+  content: "\e68d";
+}
+
+.icon-card:before {
+  content: "\e68e";
+}
+
+.icon-collect:before {
+  content: "\e68f";
+}
+
+.icon-buscode:before {
+  content: "\e690";
+}
+
+.icon-bill:before {
+  content: "\e695";
+}
+
+.icon-calculator:before {
+  content: "\e698";
+}
+
+.icon-calendar:before {
+  content: "\e699";
+}
+
+.icon-chat:before {
+  content: "\e69d";
+}
+
+.icon-express:before {
+  content: "\e6ab";
+}
+
+.icon-me:before {
+  content: "\e6b1";
+}
+
+.icon-addressbook:before {
+  content: "\e6b4";
+}
+
+.icon-home:before {
+  content: "\e6bc";
+}
+
+.icon-koubei:before {
+  content: "\e6c2";
+}
+
+.icon-link:before {
+  content: "\e6c3";
+}
+
+.icon-location:before {
+  content: "\e6c5";
+}
+
+.icon-logo:before {
+  content: "\e6c6";
+}
+
+.icon-openmail:before {
+  content: "\e6c9";
+}
+
+.icon-more:before {
+  content: "\e6cb";
+}
+
+.icon-movie:before {
+  content: "\e6cc";
+}
+
+.icon-payment:before {
+  content: "\e6cd";
+}
+
+.icon-picture:before {
+  content: "\e6ce";
+}
+
+.icon-play:before {
+  content: "\e6cf";
+}
+
+.icon-live:before {
+  content: "\e6d0";
+}
+
+.icon-redpacket:before {
+  content: "\e6d1";
+}
+
+.icon-search:before {
+  content: "\e6d4";
+}
+
+.icon-shop:before {
+  content: "\e6d8";
+}
+
+.icon-slice:before {
+  content: "\e6d9";
+}
+
+.icon-target:before {
+  content: "\e6da";
+}
+
+.icon-text:before {
+  content: "\e6dc";
+}
+
+.icon-type:before {
+  content: "\e6de";
+}
+
+.icon-wallet:before {
+  content: "\e6e0";
+}
+
+.icon-Dyanjing:before {
+  content: "\e8ab";
+}
+
+.icon-caidan:before {
+  content: "\e8ac";
+}
+
+.icon-anquan:before {
+  content: "\e8ad";
+}
+
+.icon-bangzhu:before {
+  content: "\e8ae";
+}
+
+.icon-buganxingqu:before {
+  content: "\e8af";
+}
+

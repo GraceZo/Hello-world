@@ -1,0 +1,30 @@
+{
+    "banners": [
+      {
+        "id": 1,
+        "imgUrl": "//pic.616pic.com/bg_w1180/00/06/68/Z2AyeV7h3m.jpg!/fw/1120",
+        "title": "Banner 1"
+      },
+      {
+        "id": 2,
+        "imgUrl": "//pic.616pic.com/bg_w1180/00/05/91/ilmPXqsISW.jpg!/fw/1120",
+        "title": "Banner 2"
+      },
+      {
+        "id": 3,
+        "imgUrl": "//pic.616pic.com/bg_w1180/00/11/19/KpqFaztGXa.jpg!/fw/1120",
+        "title": "Banner 3"
+      },
+      {
+        "id": 4,
+        "imgUrl": "//pic.616pic.com/bg_w1180/00/19/22/smF8VrPXVp.jpg!/fw/1120",
+        "title": "Banner 4"
+      },
+      {
+        "id": 5,
+        "imgUrl": "//pic.616pic.com/bg_w1180/00/04/00/sLVjASWNKN.jpg!/fw/1120",
+        "title": "Banner 5"
+      }
+    ]
+  }
+  
