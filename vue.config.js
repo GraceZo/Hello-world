@@ -57,8 +57,8 @@ module.exports = defineConfig({
       //   target: 'https://i.maoyan.com',
       //   changeOrigin: true
       // }
-      '/grace': {
-        target: 'https://m.maizuo.com',
+      '/Movies': {
+        target: 'https://www.eventcinemas.com.au',
         changeOrigin: true,
         pathRewrite: {
           '^/grace': ''
